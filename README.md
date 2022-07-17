@@ -1,3 +1,3 @@
-# (ii)	R shiny application together with SAS programming, Databricks connectivity, AWS S3 connectivity and R programming
+# R shiny application together with SAS programming, Databricks connectivity, AWS S3 connectivity and R programming
 
-Clinical Trials related project use an EDC system (like iMedidata RAVE) that eventually operates via SAS files which need to be stored in some location like AWS vis S3 bucketing system. R shiny application becomes a popular choice to consume such SAS data and display attractive visualizations. ![image](https://user-images.githubusercontent.com/20734578/179422931-446f27a2-15f6-4fc5-92d3-10d0c5293323.png)
+Clinical Trials related project use an EDC system (like iMedidata RAVE) that eventually operates via SAS files which need to be stored in some location like AWS vis S3 bucketing system. R shiny application becomes a popular choice to consume such SAS data and display attractive visualizations.
